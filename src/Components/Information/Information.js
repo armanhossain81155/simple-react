@@ -1,4 +1,4 @@
-import React, { useState }  from 'react';
+import React, { useState,useEffect }  from 'react';
 import fakeData from '../../fakeData/fakeData.json'
 import Players from '../Players/Players';
 import './Information.css'
@@ -9,8 +9,13 @@ import Collection from '../Collection/Collection';
 
 const Information = () => {
     
-  const [info,setInfo]=useState(fakeData);
+  const [info,setInfo]=useState([]);
+  useEffect(() =>  {
+    setInfo(fakeData);
+     
+  }, [])
   const [collection, setCollection] = useState([])
+
   const handleAddPlayer = (player) => {
      const newCollection = [...collection, player];
      setCollection(newCollection)
