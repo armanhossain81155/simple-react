@@ -1,0 +1,16 @@
+[{"id":1,"name":"Sakib Al  Hasan","budget":40000,"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL8zffiVxqksgd1TYmoNtm5ebe21jgP-iOOg&usqp=CAU","salary":"$4000"},
+    {"id":2,"name":"Tamim Iqbal","budget":15000,"image":"http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcSptPOG9vT1rhY4hE4QQuDstM8u-AUNF_E6ZMYjkh00U9BUs18fpLVcCjbOFVpY","salary":"$3000"},
+    {"id":3,"name":"Mashrafee Mortaza","budget":14000,"image":"https://static.indiatvnews.com/ins-web/images/mashrafe-1541502008.jpg","salary":"$3500"},
+    {"id":4,"name":"Mushfiqur Rahim","budget":17000,"image":"https://e0.365dm.com/18/02/768x576/skysports-mushfiqur-rahman-bangladesh-portrait_4232696.jpg?20180216112112","salary":"$2500"},
+    {"id":5,"name":"Mahmudullah Riyad","budget":11000,"image":"https://staticg.sportskeeda.com/editor/2018/03/a2735-1520589620-800.jpg","salary":"$3000"},
+    {"id":6,"name":"Mustafizur Rahman","budget":17000,"image":"https://a1.espncdn.com/combiner/i?img=/i/headshots/cricket/players/full/330902.png&h=168&w=168&scale=crop&transparent=true","salary":"$2000"},
+    {"id":7,"name":"Taskin Ahmed","budget":19000,"image":"https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Taskin-Ahmed-wt20.ashx","salary":"$1500"},
+    {"id":8,"name":"Nasir Hossain","budget":16000,"image":"https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/202900/202961.1.jpg","salary":"$3000"},
+    {"id":9,"name":"Sabbir Rahman","budget":10000,"image":"https://m.cricbuzz.com/a/img/v1/192x192/i1/c170903/sabbir-rahman.jpg","salary":"$1200"},
+    {"id":10,"name":"Shahriar Nafis","budget":12000,"image":"http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRR8RQPh4r636xAGpLyj-Afl1-ZpjTleIu9_b-9n6HGvrZerF_S0v0g8kQRUXfc","salary":"$1000"},
+    {"id":11,"name":"Abdur Razzaq","budget":13000,"image":"https://p.imgci.com/db/PICTURES/CMS/202800/202853.1.jpg","salary":"$3000"},
+    {"id":12,"name":"Soumyo Sarkar","budget":14000,"image":"http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcSXwoAfcRAS1QX7mI7XqQfUEqZPnqcH8P_qHzglv4qpTYBVVkEpR92N91noMQlg","salary":"$2500"},
+    {"id":13,"name":"Mohammad Mithun","budget":19000,"image":"https://m.cricbuzz.com/a/img/v1/192x192/i1/c170918/mohammad-mithun.jpg","salary":"$3500"},
+    {"id":14,"name":"Liton Das","budget":17000,"image":"https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Liton-Das-CWC19.ashx","salary":"$3300"},
+    {"id":15,"name":"Mohammad Saifuddin","budget":18000, "image":"http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSDGpH1jxgDuT8VKBfyiYvc4FCRWHFckXv3FiT2IEun58X8arl9H2Plrdd0U3fy","salary":"$2700"}]
+    
