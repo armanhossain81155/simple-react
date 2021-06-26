@@ -20,7 +20,7 @@ const Collection = (props) => {
             <p>(you can select only 11 player for making a Team)</p>
             <h4>Player Selected : <small> {collection.length}</small> </h4>
             
-            <h4>Name : <small>{name}</small>
+            <h4>Team Player Name : <small>{name}</small>
 
             </h4>
             <h4>Budget per player: <small> {budget}</small></h4>
